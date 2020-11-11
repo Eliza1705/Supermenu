@@ -185,4 +185,3 @@ serie nInt= do
 --SALIR
 salir = do
     pregunta False
-
